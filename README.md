@@ -1,4 +1,4 @@
-# Diego Natalo ESLint config
+# Diego Natalo's ESLint config
 
 ## Whats included?
 
