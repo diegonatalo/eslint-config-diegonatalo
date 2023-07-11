@@ -1,6 +1,6 @@
 {
   "name": "@diegonatalo/eslint-config",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "private": false,
   "description": "ESLint configuration used by Diego Natalo.",
   "main": "index.js",
@@ -21,7 +21,7 @@
     "eslint-plugin-prettier": "^4.0.0",
     "eslint-plugin-promise": "^6.0.0",
     "eslint-plugin-react": "^7.30.0",
-    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-hooks": "^4.5.0",
     "prettier": "^2.6.2"
   },
   "peerDependencies": {
