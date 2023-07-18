@@ -1,22 +1,15 @@
-# Diego Natalo's ESLint config
+# Essa é minha configuração pessoal do ESLint para Next.js
 
-## Whats included?
+### Como funciona?
 
-- Standard config base;
-- React plugin;
-- React Hooks plugin;
-- JSX a11y plugin;
-- Prettier;
+Instale as dependências
 
-## Setup
-
-### React (with Next.js)
-
-Install dependencies:
 ```
-npm i -D eslint @diegonatalo/eslint-config
+npm i -D @diegonatalo/eslint-config
 ```
-Inside `.eslintrc.json`
+
+Deixe o seu arquivo `.eslintrc.json` como o exemplo abaixo
+
 ```
 {
   "extends": [
@@ -25,3 +18,7 @@ Inside `.eslintrc.json`
   ]
 }
 ```
+
+Pronto! Já está tudo configurado.
+
+---
